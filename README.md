@@ -1,4 +1,4 @@
-# case_study
+
 
 You are testing a decision making system.
 
